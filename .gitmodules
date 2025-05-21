@@ -1,0 +1,12 @@
+[submodule "dmenu"]
+	path = dmenu
+	url = ../dmenu.git
+[submodule "dwm"]
+	path = dwm
+	url = ../dwm.git
+[submodule "dwmblocks"]
+	path = dwmblocks
+	url = ../dwmblocks.git
+[submodule "st"]
+	path = st
+	url = ../st.git
