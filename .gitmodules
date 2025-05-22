@@ -10,3 +10,6 @@
 [submodule "st"]
 	path = st
 	url = ../st.git
+[submodule "dwmbridge"]
+	path = dwmbridge
+	url = ../dwmbridge.git
